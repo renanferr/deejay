@@ -1,2 +1,4 @@
 youtube-dl
 pyaudio
+requests
+pydub
