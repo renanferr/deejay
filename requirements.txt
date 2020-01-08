@@ -2,3 +2,5 @@ youtube-dl
 pyaudio
 requests
 pydub
+eventlet
+python-socketio
