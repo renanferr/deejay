@@ -4,3 +4,6 @@ requests
 pydub
 eventlet
 python-socketio
+h2
+hyper
+websockets
